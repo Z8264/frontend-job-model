@@ -1,24 +1,13 @@
 # Front-End Job Model In 2022
 
-根据前端行业发展，综合了多家 TOP 级互联网公司职业发展路径，构建前端 JOB Model。帮助互联网企业打造前端职业体系，助力企业发展。
-
-
-
-## 概念图谱
-
-![Job Model](./images/JobModel.jpg)
+![Job Model](./images/JobModel.png)
 
 ## 应用场景
-
-![Job Model Usage](./images/JobModelUsage.jpg)
 
 * 团队建设
 * 薪酬体系
 * 招聘标准
 * 晋升参考
-
-
-
 ## 职级特征
 
 | 岗位 | 特征（技术 + 业务） | 级别（行业对标参考） | 影响范围           |
